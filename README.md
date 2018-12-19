@@ -1,1 +1,2 @@
-# WRF-azure 29-08-17 ...adding sudo at the start of the code lines and splitting code.
+Two scripts to install libraries, setting up environmental variables and testing.
+19-12-2018
