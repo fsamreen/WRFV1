@@ -1,5 +1,5 @@
 #!/bin/bash
-# run this code as source xy.sh
+# This code will install all the WRF dependencies and libraries for to run WRF.
 echo " Setting up environmental Variables for gcc, gfortran and g++........"
 echo 'export DIR=~/Build_WRF/LIBRARIES' >>/home/wrfuser/.profile
 echo 'export CC=gcc' >>/home/wrfuser/.profile
