@@ -34,7 +34,7 @@ sudo apt-get install csh -y
 sudo apt-get install perl -y
 sudo apt-get install tcsh -y
 sudo apt-get install make -y
-sudo apt-get dstat -y
+sudo apt-get install dstat -y
 which fortran
 which gcc
 which cpp
